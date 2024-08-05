@@ -20,6 +20,8 @@ static String company=" ABC";
 	e.display();
 	Employee e1= new Employee(2,"anjana");
 			e1.display();
+			Employee e2= new Employee(3,"arathi");
+			e2.display();
 
 	}
 
