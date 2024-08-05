@@ -18,6 +18,8 @@ static String company=" ABC";
 	public static void main(String[] args) {
 	Employee e=new Employee(1,"athira");
 	e.display();
+	Employee e1= new Employee(2,"anjana");
+			e1.display();
 
 	}
 
