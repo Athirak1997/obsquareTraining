@@ -9,7 +9,7 @@ public class TotalSalary extends CalculateHra {
 	public void finalSalary() {
 		System.out.println("Basic Pay: "+this.basicPay);
 		System.out.println("Deduction : "+this.deduction);
-		System.out.println("Bonus : "+this.bonus);
+		System.out.println("Bonus : "+this.bonus); 
 		System.out.println("hra : "+this.hra);
 		System.out.println("pf  :"+this.pf);
 		System.out.println("Total Salary : "+this.totalSal);

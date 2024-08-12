@@ -2,7 +2,7 @@ package com.obs.obsquaretraining.others;
 
 public class AdditionResult extends Addition {
 public void  check() {
-	int sum=super.c;
+	int sum=super.d;
 	if(sum%10==0) {
 		System.out.println("sum is divisible by 10");
 		

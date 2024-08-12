@@ -12,7 +12,7 @@ public int deduction;
 	this. deduction=sc.nextInt();
 	System.out.println("Enter bonus");
 	this. bonus=sc.nextInt();
-	sc.close();
+	sc.close(); 
 
 	 }
 
