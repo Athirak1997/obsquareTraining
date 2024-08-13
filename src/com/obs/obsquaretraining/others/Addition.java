@@ -2,6 +2,11 @@ package com.obs.obsquaretraining.others;
 
 public class Addition{
 
+public Addition(int d) {
+		super();
+		this.d = d;
+	}
+
 int d= 0;
 
 	public  int add() {
