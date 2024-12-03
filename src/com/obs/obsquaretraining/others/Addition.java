@@ -7,7 +7,7 @@ public Addition(int d) {
 		this.d = d;
 	}
 
-int d= 0;
+static int d= 0;
 
 	public  int add() {
 		int a=10;
